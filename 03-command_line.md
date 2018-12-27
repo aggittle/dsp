@@ -51,8 +51,7 @@ What do the following commands do:
 
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
-> >
-    ls -d: displays only directories  
+> > ls -d: displays only directories  
     ls -R: displays subdirectories   
     ls -r: displays contents in reverse order  
     ls -m: displays contents as comma-separated list  
