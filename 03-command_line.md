@@ -35,7 +35,15 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+	ls: lists directory contents of files and directories
+	ls -a: list all files including hidden files 
+	ls -l: list with long format - show permissions
+	ls -lh: list with long format, with readable file size
+	ls -lah: list with long format, with readable file size, including
+		 hidden files
+	ls -t: list sorted by timestamp, newest files first
+	ls -Glp: list with long format, displays directories with / and 
+		colored blue. 
 
 ---
 
@@ -43,7 +51,11 @@ What do the following commands do:
 
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > ls -d: displays only directories 
+    ls -R: displays subdirectories 
+    ls -r: displays contents in reverse order
+    ls -m: displays contents as comma-separated list
+    ls -1: displays each entry on a line
 
 ---
 
@@ -51,7 +63,8 @@ Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) 
 
 What does `xargs` do? Give an example of how to use it.
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > xargs reads items from standard input and creates multiple arguments upon which to execute a command. For example:
+    $ find . -name "*.pdf" | xargs rm would find all the PDFs in the current directory, and pass the "rm" command to each file.  
 
  
 
