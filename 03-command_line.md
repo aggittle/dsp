@@ -35,7 +35,7 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-	ls: lists directory contents of files and directories
+> >	ls: lists directory contents of files and directories
 	ls -a: list all files including hidden files 
 	ls -l: list with long format - show permissions
 	ls -lh: list with long format, with readable file size
