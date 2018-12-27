@@ -27,7 +27,9 @@ Make a cheat sheet for yourself: a list of at least **ten** commands and what th
     deleting a file: rm  
     renaming a file: mv filename1 filename2  
     listing hidden files: ls -a  
-    copying a file from one directory to another: cp filename /dest_dir       
+    copying a file from one directory to another: cp filename /dest_dir  
+    finding a string within a file: grep string filename  
+    compare files and show differences: diff filename1 filename2       
 
 ---
 
