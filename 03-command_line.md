@@ -35,7 +35,7 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-> >	ls: lists directory contents of files and directories**
+> >'''	ls: lists directory contents of files and directories**
 	ls -a: list all files including hidden files**
 	ls -l: list with long format - show permissions**
 	ls -lh: list with long format, with readable file size**
@@ -43,7 +43,7 @@ What do the following commands do:
 		 hidden files**
 	ls -t: list sorted by timestamp, newest files first**
 	ls -Glp: list with long format, displays directories with / and 
-		colored blue.** 
+		colored blue.** '''
 
 ---
 
@@ -51,12 +51,13 @@ What do the following commands do:
 
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
-> > ls -d: displays only directories**
+> >'''
+    ls -d: displays only directories**
     ls -R: displays subdirectories** 
     ls -r: displays contents in reverse order**
     ls -m: displays contents as comma-separated list**
     ls -1: displays each entry on a line**
-
+'''
 
 ---
 
