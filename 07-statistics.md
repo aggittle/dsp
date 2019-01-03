@@ -78,7 +78,7 @@ This questions asks you to examine the function that produces random numbers.  I
 ### Q4. [Think Stats Chapter 5 Exercise 1](statistics/5-1-blue_men.md) (normal distribution of blue men)
 This is a classic example of hypothesis testing using the normal distribution.  The effect size used here is the Z-statistic.
 
-
+[AG_Solution_4.2]('dsp/AG_Solution_4.2.ipynb')
 
 ### Q5. Bayesian (Elvis Presley twin)
 
